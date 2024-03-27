@@ -1,3 +1,10 @@
 444
+<<<<<<< HEAD
 
 test before commmit from local
+=======
+update
+update2
+
+
+>>>>>>> 992665a (update, up2)
